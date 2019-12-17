@@ -11,3 +11,4 @@ Use npm (so a newish version of node is required)
 
 expo will start and you will be able to test the project localy
 
+![alt test](images/screenshot.jpg)
