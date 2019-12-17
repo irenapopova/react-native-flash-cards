@@ -16,3 +16,6 @@ expo will start and you will be able to test the project localy
 🌟
 
 ![screenshot](./images/Screenshot.jpg)
+🚀 🌟 🐇 🐇 🐇
+
+[screenshot](./images/Screenshot2.jpg)
