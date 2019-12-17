@@ -15,4 +15,4 @@ expo will start and you will be able to test the project localy
 🐊
 🌟
 
-![screenshot](/images/screenshot.jpg)
+![screenshot](./images/screenshot.jpg)
