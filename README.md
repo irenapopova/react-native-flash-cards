@@ -1,3 +1,5 @@
+## React Native Project - Flash-Cards
+
 ## Installation : 🚀 🍺
 
 If you dont have a phone and emulator will be required google xcode or android studio
